@@ -1,5 +1,5 @@
-* = bug fix
-+ = added feature
+\* = bug fix
+\+ = added feature
 ~ = code clean up
 
 PassManager-B2:
