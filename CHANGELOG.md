@@ -1,8 +1,8 @@
-\* = bug fix
-\+ = added feature
-~ = code clean up
+\* = bug fix  
+\+ = added feature  
+~ = code clean up  
 
-PassManager-B2:
+PassManager-B2:  
 *MainScreen no longer disposes and reopens on refresh (due to bug where screen would sometimes not dispose and 2 main screens would exist simultaneously)
 
 *removed string comparison using == instead of .equals() (MenuOptionEditor.java:211)
